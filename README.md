@@ -1,2 +1,2 @@
-# indonesia-simulator
+# indonesiasimulator
 Made with Godot
